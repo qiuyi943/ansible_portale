@@ -15,7 +15,7 @@ $ source run.sh
     For example,
 
 
-    ```
+```
     $ cat etc/ansible/hosts
 
     [test]
@@ -28,6 +28,7 @@ $ source run.sh
         "ping": "pong"
     }
 ```
+
 
 3. To return to the real env, you should execute **deactivate** in the console.
 
